@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Lao_Kim</title>
   
-  
+  <subtitle>Lao_Kim</subtitle>
   <link href="https://laokim.github.io/atom.xml" rel="self"/>
   
   <link href="https://laokim.github.io/"/>
-  <updated>2021-04-29T16:01:13.269Z</updated>
+  <updated>2021-05-02T09:34:38.631Z</updated>
   <id>https://laokim.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Lao Kim</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>windows系统下一步步搭建并撰写Hexo静态博客</title>
+    <link href="https://laokim.github.io/2021/04/30/jing-tai-bo-ke-da-jian-zhuan-xie-xiang-xi-jiao-cheng/"/>
+    <id>https://laokim.github.io/2021/04/30/jing-tai-bo-ke-da-jian-zhuan-xie-xiang-xi-jiao-cheng/</id>
+    <published>2021-04-30T01:46:40.000Z</published>
+    <updated>2021-05-02T09:34:38.631Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="配置" scheme="https://laokim.github.io/tags/%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>博客公告</title>
-    <link href="https://laokim.github.io/2021/04/29/qian-yan/"/>
-    <id>https://laokim.github.io/2021/04/29/qian-yan/</id>
+    <link href="https://laokim.github.io/2021/04/29/bo-ke-gong-gao/"/>
+    <id>https://laokim.github.io/2021/04/29/bo-ke-gong-gao/</id>
     <published>2021-04-29T08:17:59.000Z</published>
-    <updated>2021-04-29T16:01:13.269Z</updated>
+    <updated>2021-04-30T02:01:32.190Z</updated>
     
     
       
